@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @orangakane1
-- 👀 I’m interested in ...
+- 👀 This is my first week on Github 
 - 🌱 I’m currently learning HTML 5 & CSS 3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...anything interesting(coding)
+- 📫 How to reach me ...Write me an email on orangakane1@gmail.com
 
 <!---
 orangakane1/orangakane1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
