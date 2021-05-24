@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orangakane1
-- 👀 This is my first week on Github 
+- 👀  
 - 🌱 I’m currently learning HTML 5 & CSS 3
 - 💞️ I’m looking to collaborate on ...anything interesting(coding)
 - 📫 How to reach me ...Write me an email on orangakane1@gmail.com
